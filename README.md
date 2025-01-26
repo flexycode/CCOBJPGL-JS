@@ -104,7 +104,7 @@ Coming Soon
 ```
 # 📫 Changelog 
         
-## 💻 [1.1.01] - 2025-01-01        
+## 💻 [1.1.01] - 2025-01-27        
 ### Added 
 - ✨ Uploaded the Course Syllabus
 - ✨ Added breakdown and documentation
@@ -115,6 +115,7 @@ Coming Soon
 ### Fixed  
 - ✨ Revised my documentaion
 
+<!-- Background github cover with short introduction down below 
 ## 💻 [1.1.3] - 2025-01-06  
 - ✨ Added week 1 : Object and Classes
 - ✨ Added class with constructor
@@ -141,6 +142,8 @@ Coming Soon
 ## 💻 [1.1.2] - 2025-12-27
 - ✨ Added Synchronous + Asynchronous topic for Framework
 - ✨ Added Framework lesson ( Express, Koa, NestJS )
+
+-->
 
 🧊 JavaScipt OOP
 
