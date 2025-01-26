@@ -1,3 +1,6 @@
+<!-- Background github cover with short introduction down below -->
+<img src="https://github.com/flexycode/CCOBJPGL-JS/blob/main/assets/javascript.webp" />
+
 # 💫 CCOBJPGL-JS
 CCOBJPGL-JS - Object-Oriented Programming in JavaScript
 
@@ -101,7 +104,7 @@ Coming Soon
 ```
 # 📫 Changelog 
         
-## 💻 [5.1.4] - 2024-05-2        
+## 💻 [1.1.01] - 2025-01-01        
 ### Added 
 - ✨ Uploaded the Course Syllabus
 - ✨ Added breakdown and documentation
@@ -112,30 +115,30 @@ Coming Soon
 ### Fixed  
 - ✨ Revised my documentaion
 
-## 💻 [5.1.3] - 2024-05-21  
+## 💻 [1.1.3] - 2025-01-06  
 - ✨ Added week 1 : Object and Classes
 - ✨ Added class with constructor
 - ✨ Added standard class
 
-## 💻 [5.1.4] - 2024-05-28  
+## 💻 [1.1.4] - 2025-01-11  
 - ✨ Added week 2 : Encapsulation, Inheritance, Polymorphism
 - ✨ Added Encapsulation with example code
 - ✨ Added Ihheritance with example code
 - ✨ Added Polymorphism with example code
 
-## 💻 [6.1.4] - 2024-06-04   
+## 💻 [1.1.1] - 2025-01-16   
 - ✨ Added week 3 : Forms of Inheritance
 
-## 💻 [7.1.4] - 2024-07-05
+## 💻 [1.1.1] - 2025-01-18
 - ✨ Added week 4 
 
-## 💻 [11.1.1] - 2024-11-19
+## 💻 [1.1.1] - 2025-01-19
 - ✨ Add Licence
 
-## 💻 [12.1.1] - 2024-12-25
+## 💻 [1.1.1] - 2025-01-25
 - ✨ Coming Soon
 
-## 💻 [12.1.1] - 2024-12-25
+## 💻 [1.1.2] - 2025-12-27
 - ✨ Added Synchronous + Asynchronous topic for Framework
 - ✨ Added Framework lesson ( Express, Koa, NestJS )
 
